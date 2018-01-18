@@ -8,7 +8,6 @@ Created on Sun May 21 02:20:03 2017
 import numpy as np
 import tensorflow as tf
 
-
 x = tf.placeholder(tf.float32, name='x')
 c = tf.constant(2.0, name='c')
 cx_squared = c*x*x
