@@ -100,25 +100,40 @@ def predictFinalValue(inputX, trainX, trainY, K):
     return tf.to_int32(outputY)
 \end{verbatim}
 
-\subsubsection{Face recognition using k-NN}
+\subsection{Face recognition using k-NN}
 For k = 1, validation accuracy is 61/92;\\
 For k = 5, validation accuracy is 52/92;\\
 For k = 10, validation accuracy is 51/92;\\
 For k = 25, validation accuracy is 52/92;\\
 For k = 50, validation accuracy is 49/92;\\
 For k = 100, validation accuracy is 43/92;\\
-For k = 200, validation accuracy is 28/92;\\
-
-The value of k that achieves the best validation accuracy is k = 1. If k = 1, the test accuracy is \\\\
+For k = 200, validation accuracy is 28/92;\\\\
+The value of k that achieves the best validation accuracy for person is 1 \\\\
 For k = 1, test accuracy is 66/93;\\
 For k = 5, test accuracy is 63/93;\\
 For k = 10, test accuracy is 63/93;\\
 For k = 25, test accuracy is 62/93;\\
 For k = 50, test accuracy is 52/93;\\
 For k = 100, test accuracy is 44/93;\\
-For k = 200, test accuracy is 34/93\\;\\
+For k = 200, test accuracy is 34/93;\\\\
 
+INCLUDE IMAGES HERE
 
-\subsubsection{Face recognition using k-NN}
+\subsection{Gender recognition using k-NN}
+For K = 1 validation accuracy is 84/92\\
+For K = 5 validation accuracy is 84/92\\
+For K = 10 validation accuracy is 80/92\\
+For K = 25 validation accuracy is 83/92\\
+For K = 50 validation accuracy is 82/92\\
+For K = 100 validation accuracy is 78/92\\
+For K = 200  validation accuracy is 71/92\\\\
+The value of k that achieves the best validation accuracy for gender is 1 or 2\\\\
+For K = 1 test accuracy is: 86/93\\
+For K = 5  test accuracy is: 84/93\\
+For K = 10  test accuracy is: 82/93\\
+For K = 25  test accuracy is: 82/93\\
+For K = 50  test accuracy is: 80/93\\
+For K = 100  test accuracy is: 77/93\\
+For K = 200  test accuracy is: 68/93\\
 
 \end{document}
