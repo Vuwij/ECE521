@@ -1,0 +1,7 @@
+1. There will be plotting questions, such as you will be given 2d dataset, and will be asked to plot results of k-means, MoGs etc.
+2. there will be 10 T/F and multiple choice questions, much less than midterm
+3. there will be derivation questions. These might potentially involve MoG's, naive bayes, EM algorithm etc
+he also emphasized that Naive bayes is like the bridge between discriminative models and generative models
+there will also be more mechanical questions
+4. such as checking conditional independence, message passing, etc.
+I

@@ -1,0 +1,25 @@
+3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:18:55) [MSC v.1900 64 bit (AMD64)]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate q2.1.py]
+data points belonging to cluster1 = 3384
+
+percetage = 0.3384
+
+data points belonging to cluster2 = 3227
+
+percetage = 0.3227
+
+data points belonging to cluster3 = 3389
+
+percetage = 0.3389
+
+mean
+[[-1.10165334 -3.30636644]
+ [ 0.10597209 -1.52743006]
+ [ 1.29857373  0.30940729]]
+pi
+[[ 0.33195004  0.33462536  0.33342475]]
+variance
+[[ 0.03908071  0.98721224  0.03885034]]
+loss
+1.7132299

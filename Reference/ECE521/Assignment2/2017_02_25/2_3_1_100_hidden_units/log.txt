@@ -1,0 +1,605 @@
+3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:18:55) [MSC v.1900 64 bit (AMD64)]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate q.2.2.py]
+before training: train acc: 0.0834 
+i: 0 
+training accuracy: 0.2332
+valid accuracy: 0.32
+test accuracy: 0.329662
+i: 1 
+training accuracy: 0.4298
+valid accuracy: 0.436
+test accuracy: 0.44163
+i: 2 
+training accuracy: 0.5016
+valid accuracy: 0.492
+test accuracy: 0.522761
+i: 3 
+training accuracy: 0.583
+valid accuracy: 0.631
+test accuracy: 0.637665
+i: 4 
+training accuracy: 0.6646
+valid accuracy: 0.696
+test accuracy: 0.699339
+i: 5 
+training accuracy: 0.7508
+valid accuracy: 0.766
+test accuracy: 0.779736
+i: 6 
+training accuracy: 0.7974
+valid accuracy: 0.8
+test accuracy: 0.81975
+i: 7 
+training accuracy: 0.8184
+valid accuracy: 0.817
+test accuracy: 0.832232
+i: 8 
+training accuracy: 0.835
+valid accuracy: 0.835
+test accuracy: 0.845081
+i: 9 
+training accuracy: 0.837
+valid accuracy: 0.84
+test accuracy: 0.853524
+i: 10 
+training accuracy: 0.8426
+valid accuracy: 0.853
+test accuracy: 0.859765
+i: 11 
+training accuracy: 0.855
+valid accuracy: 0.855
+test accuracy: 0.864905
+i: 12 
+training accuracy: 0.8596
+valid accuracy: 0.862
+test accuracy: 0.865272
+i: 13 
+training accuracy: 0.858
+valid accuracy: 0.868
+test accuracy: 0.868943
+i: 14 
+training accuracy: 0.8604
+valid accuracy: 0.869
+test accuracy: 0.874082
+i: 15 
+training accuracy: 0.8738
+valid accuracy: 0.871
+test accuracy: 0.875184
+i: 16 
+training accuracy: 0.8694
+valid accuracy: 0.871
+test accuracy: 0.878488
+i: 17 
+training accuracy: 0.8674
+valid accuracy: 0.873
+test accuracy: 0.876652
+i: 18 
+training accuracy: 0.869
+valid accuracy: 0.871
+test accuracy: 0.87812
+i: 19 
+training accuracy: 0.8748
+valid accuracy: 0.874
+test accuracy: 0.879222
+i: 20 
+training accuracy: 0.88
+valid accuracy: 0.875
+test accuracy: 0.880323
+i: 21 
+training accuracy: 0.8814
+valid accuracy: 0.875
+test accuracy: 0.882526
+i: 22 
+training accuracy: 0.8774
+valid accuracy: 0.876
+test accuracy: 0.882526
+i: 23 
+training accuracy: 0.8792
+valid accuracy: 0.875
+test accuracy: 0.883627
+i: 24 
+training accuracy: 0.8812
+valid accuracy: 0.875
+test accuracy: 0.884361
+i: 25 
+training accuracy: 0.8828
+valid accuracy: 0.875
+test accuracy: 0.885095
+i: 26 
+training accuracy: 0.8862
+valid accuracy: 0.881
+test accuracy: 0.88583
+i: 27 
+training accuracy: 0.892
+valid accuracy: 0.881
+test accuracy: 0.886564
+i: 28 
+training accuracy: 0.8854
+valid accuracy: 0.881
+test accuracy: 0.888032
+i: 29 
+training accuracy: 0.89
+valid accuracy: 0.883
+test accuracy: 0.888032
+i: 30 
+training accuracy: 0.8906
+valid accuracy: 0.885
+test accuracy: 0.889501
+i: 31 
+training accuracy: 0.8884
+valid accuracy: 0.887
+test accuracy: 0.889868
+i: 32 
+training accuracy: 0.892
+valid accuracy: 0.888
+test accuracy: 0.891703
+i: 33 
+training accuracy: 0.8948
+valid accuracy: 0.887
+test accuracy: 0.89207
+i: 34 
+training accuracy: 0.8936
+valid accuracy: 0.888
+test accuracy: 0.890969
+i: 35 
+training accuracy: 0.8932
+valid accuracy: 0.889
+test accuracy: 0.89207
+i: 36 
+training accuracy: 0.8924
+valid accuracy: 0.89
+test accuracy: 0.893539
+i: 37 
+training accuracy: 0.8962
+valid accuracy: 0.888
+test accuracy: 0.896109
+i: 38 
+training accuracy: 0.897
+valid accuracy: 0.89
+test accuracy: 0.896843
+i: 39 
+training accuracy: 0.9012
+valid accuracy: 0.892
+test accuracy: 0.897944
+i: 40 
+training accuracy: 0.9006
+valid accuracy: 0.894
+test accuracy: 0.89721
+i: 41 
+training accuracy: 0.9028
+valid accuracy: 0.897
+test accuracy: 0.897577
+i: 42 
+training accuracy: 0.8996
+valid accuracy: 0.895
+test accuracy: 0.897577
+i: 43 
+training accuracy: 0.9036
+valid accuracy: 0.896
+test accuracy: 0.897944
+i: 44 
+training accuracy: 0.9056
+valid accuracy: 0.896
+test accuracy: 0.897944
+i: 45 
+training accuracy: 0.901
+valid accuracy: 0.896
+test accuracy: 0.898678
+i: 46 
+training accuracy: 0.9028
+valid accuracy: 0.898
+test accuracy: 0.897944
+i: 47 
+training accuracy: 0.9036
+valid accuracy: 0.897
+test accuracy: 0.897944
+i: 48 
+training accuracy: 0.9052
+valid accuracy: 0.899
+test accuracy: 0.898678
+i: 49 
+training accuracy: 0.9124
+valid accuracy: 0.9
+test accuracy: 0.899046
+i: 50 
+training accuracy: 0.9088
+valid accuracy: 0.901
+test accuracy: 0.899413
+i: 51 
+training accuracy: 0.9096
+valid accuracy: 0.903
+test accuracy: 0.899413
+i: 52 
+training accuracy: 0.9072
+valid accuracy: 0.903
+test accuracy: 0.900514
+i: 53 
+training accuracy: 0.9078
+valid accuracy: 0.904
+test accuracy: 0.900514
+i: 54 
+training accuracy: 0.9044
+valid accuracy: 0.905
+test accuracy: 0.902717
+i: 55 
+training accuracy: 0.9142
+valid accuracy: 0.905
+test accuracy: 0.903451
+i: 56 
+training accuracy: 0.9126
+valid accuracy: 0.908
+test accuracy: 0.901982
+i: 57 
+training accuracy: 0.9138
+valid accuracy: 0.908
+test accuracy: 0.903084
+i: 58 
+training accuracy: 0.9168
+valid accuracy: 0.909
+test accuracy: 0.902349
+i: 59 
+training accuracy: 0.916
+valid accuracy: 0.908
+test accuracy: 0.901248
+i: 60 
+training accuracy: 0.9178
+valid accuracy: 0.909
+test accuracy: 0.902717
+i: 61 
+training accuracy: 0.9086
+valid accuracy: 0.908
+test accuracy: 0.902717
+i: 62 
+training accuracy: 0.914
+valid accuracy: 0.909
+test accuracy: 0.902349
+i: 63 
+training accuracy: 0.918
+valid accuracy: 0.909
+test accuracy: 0.903451
+i: 64 
+training accuracy: 0.925
+valid accuracy: 0.91
+test accuracy: 0.903818
+i: 65 
+training accuracy: 0.9158
+valid accuracy: 0.909
+test accuracy: 0.903818
+i: 66 
+training accuracy: 0.916
+valid accuracy: 0.912
+test accuracy: 0.904185
+i: 67 
+training accuracy: 0.9196
+valid accuracy: 0.913
+test accuracy: 0.904185
+i: 68 
+training accuracy: 0.9176
+valid accuracy: 0.912
+test accuracy: 0.904185
+i: 69 
+training accuracy: 0.9204
+valid accuracy: 0.913
+test accuracy: 0.905653
+i: 70 
+training accuracy: 0.913
+valid accuracy: 0.914
+test accuracy: 0.904919
+i: 71 
+training accuracy: 0.9238
+valid accuracy: 0.915
+test accuracy: 0.904552
+i: 72 
+training accuracy: 0.9232
+valid accuracy: 0.914
+test accuracy: 0.905653
+i: 73 
+training accuracy: 0.9208
+valid accuracy: 0.915
+test accuracy: 0.905286
+i: 74 
+training accuracy: 0.9194
+valid accuracy: 0.916
+test accuracy: 0.904919
+i: 75 
+training accuracy: 0.9212
+valid accuracy: 0.916
+test accuracy: 0.905286
+i: 76 
+training accuracy: 0.917
+valid accuracy: 0.913
+test accuracy: 0.906021
+i: 77 
+training accuracy: 0.9168
+valid accuracy: 0.914
+test accuracy: 0.904185
+i: 78 
+training accuracy: 0.9204
+valid accuracy: 0.915
+test accuracy: 0.904185
+i: 79 
+training accuracy: 0.9182
+valid accuracy: 0.915
+test accuracy: 0.905286
+i: 80 
+training accuracy: 0.918
+valid accuracy: 0.915
+test accuracy: 0.904919
+i: 81 
+training accuracy: 0.924
+valid accuracy: 0.916
+test accuracy: 0.903818
+i: 82 
+training accuracy: 0.9224
+valid accuracy: 0.916
+test accuracy: 0.905653
+i: 83 
+training accuracy: 0.9268
+valid accuracy: 0.916
+test accuracy: 0.904552
+i: 84 
+training accuracy: 0.9206
+valid accuracy: 0.918
+test accuracy: 0.904919
+i: 85 
+training accuracy: 0.9266
+valid accuracy: 0.918
+test accuracy: 0.907122
+i: 86 
+training accuracy: 0.9194
+valid accuracy: 0.916
+test accuracy: 0.905653
+i: 87 
+training accuracy: 0.9292
+valid accuracy: 0.918
+test accuracy: 0.905286
+i: 88 
+training accuracy: 0.9282
+valid accuracy: 0.919
+test accuracy: 0.905653
+i: 89 
+training accuracy: 0.9206
+valid accuracy: 0.916
+test accuracy: 0.906755
+i: 90 
+training accuracy: 0.9246
+valid accuracy: 0.917
+test accuracy: 0.906755
+i: 91 
+training accuracy: 0.9258
+valid accuracy: 0.918
+test accuracy: 0.907122
+i: 92 
+training accuracy: 0.93
+valid accuracy: 0.916
+test accuracy: 0.907489
+i: 93 
+training accuracy: 0.9268
+valid accuracy: 0.917
+test accuracy: 0.905286
+i: 94 
+training accuracy: 0.9258
+valid accuracy: 0.918
+test accuracy: 0.906021
+i: 95 
+training accuracy: 0.9288
+valid accuracy: 0.918
+test accuracy: 0.907489
+i: 96 
+training accuracy: 0.9286
+valid accuracy: 0.918
+test accuracy: 0.906021
+i: 97 
+training accuracy: 0.922
+valid accuracy: 0.919
+test accuracy: 0.906021
+i: 98 
+training accuracy: 0.9332
+valid accuracy: 0.919
+test accuracy: 0.905653
+i: 99 
+training accuracy: 0.9246
+valid accuracy: 0.919
+test accuracy: 0.905653
+i: 100 
+training accuracy: 0.9306
+valid accuracy: 0.919
+test accuracy: 0.905653
+i: 101 
+training accuracy: 0.932
+valid accuracy: 0.918
+test accuracy: 0.905653
+i: 102 
+training accuracy: 0.9356
+valid accuracy: 0.918
+test accuracy: 0.904552
+i: 103 
+training accuracy: 0.9282
+valid accuracy: 0.919
+test accuracy: 0.906388
+i: 104 
+training accuracy: 0.9304
+valid accuracy: 0.919
+test accuracy: 0.906021
+i: 105 
+training accuracy: 0.93
+valid accuracy: 0.919
+test accuracy: 0.906388
+i: 106 
+training accuracy: 0.9284
+valid accuracy: 0.921
+test accuracy: 0.905286
+i: 107 
+training accuracy: 0.9308
+valid accuracy: 0.919
+test accuracy: 0.907856
+i: 108 
+training accuracy: 0.9282
+valid accuracy: 0.92
+test accuracy: 0.906755
+i: 109 
+training accuracy: 0.934
+valid accuracy: 0.921
+test accuracy: 0.906755
+i: 110 
+training accuracy: 0.931
+valid accuracy: 0.921
+test accuracy: 0.906388
+i: 111 
+training accuracy: 0.931
+valid accuracy: 0.921
+test accuracy: 0.906388
+i: 112 
+training accuracy: 0.9284
+valid accuracy: 0.92
+test accuracy: 0.907489
+i: 113 
+training accuracy: 0.9316
+valid accuracy: 0.921
+test accuracy: 0.907122
+i: 114 
+training accuracy: 0.9298
+valid accuracy: 0.921
+test accuracy: 0.906021
+i: 115 
+training accuracy: 0.9276
+valid accuracy: 0.921
+test accuracy: 0.906021
+i: 116 
+training accuracy: 0.9306
+valid accuracy: 0.921
+test accuracy: 0.907489
+i: 117 
+training accuracy: 0.935
+valid accuracy: 0.921
+test accuracy: 0.908223
+i: 118 
+training accuracy: 0.9318
+valid accuracy: 0.921
+test accuracy: 0.906755
+i: 119 
+training accuracy: 0.932
+valid accuracy: 0.921
+test accuracy: 0.906388
+i: 120 
+training accuracy: 0.9318
+valid accuracy: 0.922
+test accuracy: 0.907489
+i: 121 
+training accuracy: 0.9318
+valid accuracy: 0.921
+test accuracy: 0.907122
+i: 122 
+training accuracy: 0.935
+valid accuracy: 0.921
+test accuracy: 0.906755
+i: 123 
+training accuracy: 0.9358
+valid accuracy: 0.921
+test accuracy: 0.907122
+i: 124 
+training accuracy: 0.9406
+valid accuracy: 0.921
+test accuracy: 0.906755
+i: 125 
+training accuracy: 0.9388
+valid accuracy: 0.921
+test accuracy: 0.906388
+i: 126 
+training accuracy: 0.9342
+valid accuracy: 0.921
+test accuracy: 0.906755
+i: 127 
+training accuracy: 0.9356
+valid accuracy: 0.921
+test accuracy: 0.906388
+i: 128 
+training accuracy: 0.937
+valid accuracy: 0.921
+test accuracy: 0.906755
+i: 129 
+training accuracy: 0.931
+valid accuracy: 0.921
+test accuracy: 0.906021
+i: 130 
+training accuracy: 0.936
+valid accuracy: 0.923
+test accuracy: 0.906755
+i: 131 
+training accuracy: 0.9388
+valid accuracy: 0.922
+test accuracy: 0.906388
+i: 132 
+training accuracy: 0.9378
+valid accuracy: 0.922
+test accuracy: 0.907122
+i: 133 
+training accuracy: 0.9368
+valid accuracy: 0.924
+test accuracy: 0.905286
+i: 134 
+training accuracy: 0.9396
+valid accuracy: 0.924
+test accuracy: 0.906388
+i: 135 
+training accuracy: 0.937
+valid accuracy: 0.922
+test accuracy: 0.906755
+i: 136 
+training accuracy: 0.9386
+valid accuracy: 0.924
+test accuracy: 0.906388
+i: 137 
+training accuracy: 0.9388
+valid accuracy: 0.924
+test accuracy: 0.906755
+i: 138 
+training accuracy: 0.9392
+valid accuracy: 0.923
+test accuracy: 0.906755
+i: 139 
+training accuracy: 0.9364
+valid accuracy: 0.925
+test accuracy: 0.907489
+i: 140 
+training accuracy: 0.9442
+valid accuracy: 0.923
+test accuracy: 0.906755
+i: 141 
+training accuracy: 0.9372
+valid accuracy: 0.923
+test accuracy: 0.907122
+i: 142 
+training accuracy: 0.939
+valid accuracy: 0.925
+test accuracy: 0.906388
+i: 143 
+training accuracy: 0.9358
+valid accuracy: 0.924
+test accuracy: 0.907122
+i: 144 
+training accuracy: 0.9392
+valid accuracy: 0.924
+test accuracy: 0.907122
+i: 145 
+training accuracy: 0.9378
+valid accuracy: 0.923
+test accuracy: 0.906755
+i: 146 
+training accuracy: 0.9376
+valid accuracy: 0.924
+test accuracy: 0.908223
+i: 147 
+training accuracy: 0.9398
+valid accuracy: 0.924
+test accuracy: 0.908223
+i: 148 
+training accuracy: 0.9414
+valid accuracy: 0.924
+test accuracy: 0.907122
+i: 149 
+training accuracy: 0.941
+valid accuracy: 0.923
+test accuracy: 0.908223
+Model saved in file: /Users/winst/Google Drive/3S/ECE521/Assignment2/checkpoints2/model.ckpt

@@ -54,8 +54,8 @@ def buildGraph(numLayers, numHiddenUnits, learningRate):
     S1, W1 = layerWiseBuildingBlock(X_flatten, numHiddenUnits)
     thetaS1 = tf.nn.relu(S1)
 
-	S2, W2 = layerWiseBuildingBlock(thetaS1, numHiddenUnits)
-	thetaS2 = tf.nn.relu(S2)
+    S2, W2 = layerWiseBuildingBlock(thetaS1, numHiddenUnits)
+    thetaS2 = tf.nn.relu(S2)
     
     # Hidden <=> Output
     S3, W3 = layerWiseBuildingBlock(thetaS2, 10)

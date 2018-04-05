@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/winst/Google Drive/3S/ECE521/Assignment2/checkpoints/model.ckpt"
+all_model_checkpoint_paths: "/Users/winst/Google Drive/3S/ECE521/Assignment2/checkpoints/model.ckpt"
